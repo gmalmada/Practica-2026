@@ -33,5 +33,4 @@ public class Pikachu extends Pokemon implements IElectrico{
 		System.out.println("Pikachu usa Punio Trueno.");
 		
 	}
-
 }

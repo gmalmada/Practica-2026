@@ -18,5 +18,4 @@ public class EjercicioIntegrador {
 		pikachu.atacarAraniazo();
 		pikachu.atacarImpacTrueno();
 	}
-
 }

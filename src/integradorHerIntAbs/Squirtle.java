@@ -39,5 +39,4 @@ public class Squirtle extends Pokemon implements IAgua{
 		System.out.println("Squirtle usa Pistola Agua.");
 		
 	}
-
 }

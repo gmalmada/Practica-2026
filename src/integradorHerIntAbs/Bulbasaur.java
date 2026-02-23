@@ -33,5 +33,4 @@ public class Bulbasaur extends Pokemon implements IPlanta{
 		System.out.println("Bulbasaur usa Paralizar.");
 		
 	}
-
 }

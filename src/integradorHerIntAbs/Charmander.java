@@ -39,5 +39,4 @@ public class Charmander extends Pokemon implements IFuego{
 		System.out.println("Charmander usa Ascuas.");
 		
 	}
-
 }
