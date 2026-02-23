@@ -21,9 +21,6 @@ public class Flor extends Planta{
 		this.estacionFlorece = estacionFlorece;
 	}
 
-	
-
-
 	public String getColorPetalos() {
 		return colorPetalos;
 	}
@@ -79,5 +76,4 @@ public class Flor extends Planta{
 		System.out.println("Hola soy una flor.");
 		
 	}
-
 }

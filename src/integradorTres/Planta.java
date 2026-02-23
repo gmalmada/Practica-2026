@@ -51,6 +51,4 @@ public abstract class Planta {
 
 	public abstract void decirQueSoy();
 	
-	
-
 }
