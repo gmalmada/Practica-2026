@@ -1,4 +1,4 @@
-package integradorHerIntAbs;
+package integradorUno;
 
 public class Charmander extends Pokemon implements IFuego{
 	

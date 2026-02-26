@@ -1,4 +1,4 @@
-package integradorHerIntAbs;
+package integradorUno;
 
 public interface IElectrico {
 	
